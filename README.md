@@ -38,7 +38,15 @@ Then the rows that had helpful votes cast at 50% or more where selected and put 
 
 ## Summary
 
-Looking at the results, there are more
+Looking at the results, the percentage of non-vine reviews that are 5-star is greater than vine members.  The overall difference is around 8%.  There does not appear to be a bias with being a vine member versus not and the reviews given.  Another factor to consider is verified purchases.
+
+The number of verified purchases in vine members is 1 out of 334.  The number of verified purchases in non-vine members is 42479 out of 61614 reviews.  This may lead to reviews that are biased.  Possibly family members or friends of a product or service.  This could be examined even further.
+
+
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/85581208/153722678-9b3de6ce-5177-4e37-a85c-35cac78b59cd.png">
+
+
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/85581208/153722708-868677d5-57f9-40a5-82ed-f865fb4a7bd0.png">
 
 
 
