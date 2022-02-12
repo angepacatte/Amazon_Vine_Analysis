@@ -36,6 +36,7 @@ Then the rows that had helpful votes cast at 50% or more where selected and put 
 
 
 -Percentage of vine reviews that were 5-star = 41.61%
+
 -Percentage of non-vine reviews that were 5-star = 49.76%
 
 
