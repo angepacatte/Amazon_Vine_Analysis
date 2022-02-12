@@ -5,11 +5,13 @@
 The purpose of this analysis was to analyze the sports data on amazon.  The analysis specifcally calculated 5-star reviews for vine members and non-vine members and then comparing the percentages in each category.
 
 The first step in the analysis was to filter out zeros by selecting where total_votes were more than 20 in the vine_table.  The rows were put into a new table called total_votes.  Image shows process below.
+
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/85581208/153720285-30bb9030-a3b9-4091-b662-eadfe1156efb.png">
 
 
 
 Then the rows that had helpful votes cast at 50% or more where selected and put into a new table called helpful_total_votes.  Image below shows query and results.
+
 <img width="731" alt="image" src="https://user-images.githubusercontent.com/85581208/153720370-baf862fa-bd1e-4516-ad04-15bf3fd483a3.png">
 
 
