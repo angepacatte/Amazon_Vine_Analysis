@@ -19,6 +19,7 @@ Then the rows that had helpful votes cast at 50% or more where selected and put 
 ## Results
 
 -There were 334 vine reviews and 61614 non-vine reviews.
+
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/85581208/153720811-05ebcbc9-7246-48f1-8914-7cf53870ac16.png">
 
 
